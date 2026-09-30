@@ -1,6 +1,6 @@
-# IBM webMethods Integration
+ 
 
-## Lab 02 -- Invoke a REST API using HTTP POST
+## Lab 02 - Invoke a REST API using HTTP POST
 
 **Workflow**
 
