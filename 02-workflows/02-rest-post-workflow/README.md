@@ -32,4 +32,32 @@ POST
 
 ## Step-by-Step Tutorial
 
- 
+ ### Step 1 – Create the Project
+
+Log in to IBM Integration SaaS and open webMethods Integration.
+
+You will land in the Project Workspace.
+
+Click **New Project** and create the project:
+
+`WebMethodsIntegrationLabs`
+
+![Create Project](screenshots/01-create-project.png)
+
+### Step 2 – Create the Workflow
+
+Inside the project, select **Workflows**.
+
+Click the **+** icon and select **Create New Workflow**.
+
+![Create Workflow](screenshots/02-create-workflow.png)
+
+### Step 3 – Name the Workflow
+
+Enter the Workflow name:
+
+`REST_POST_Request`
+
+Click **Confirm**.
+
+![Workflow Name](screenshots/03-workflow-name.png)
