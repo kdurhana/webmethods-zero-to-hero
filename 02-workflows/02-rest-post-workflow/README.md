@@ -109,6 +109,8 @@ Open the **Output** tab.
 
 Click **Test**.
 
+![Test HTTP Request](screenshots/08-http-request-test.png)
+
 201 Created is the success code for POST requests — it means the server received your data and created a new record. 
 
 Click **Done** after reviewing the response.
