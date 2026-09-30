@@ -1,4 +1,4 @@
-# Lab 01 – Invoke a REST API using webMethods Workflow
+# Lab 01 – Invoke a REST API using HTTP GET
 
 ## Overview
 
