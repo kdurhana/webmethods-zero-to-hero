@@ -1,4 +1,4 @@
-# IBM webMethods Integration — Lab 04: Loop + Database Insert
+#  Lab 04: Loop + Database Insert
 
 **Hands-on Workflow Lab**
 
