@@ -116,7 +116,7 @@ After the project is created, open `WebMethodsIntegrationLabs`.
 
 Inside `WebMethodsIntegrationLabs`:
 
-1. Select **Flow services**.
+1. Select **Flow services** Run in Cloud 
 2. Select **Create** or the option to add a new Flow Service.
 3. When prompted to select the Flow Service type, choose **Flow Service**.
 
