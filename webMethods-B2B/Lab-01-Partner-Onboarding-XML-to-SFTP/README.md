@@ -43,7 +43,7 @@ This lab simulates a supplier submitting an order into webMethods. It does not r
 
 ## Prerequisites
 
-- Access to an IBM webMethods B2B Integration SaaS tenant.
+- Access to an IBM Integration SaaS Tenant - webMethods B2B Integration .
 - Permission to create partners, channels, business documents, and processing rules.
 - Postman installed locally.
 - A test SFTP destination such as SFTPCloud, with host, port, username, password, and host-key handling configured.
